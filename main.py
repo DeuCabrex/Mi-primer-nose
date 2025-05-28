@@ -18,7 +18,7 @@ while True:
     
     if op == 2:
         print("Calcular Promedio")
-        prom=sum(pp)/len(pp)
+        prom=sum(pp)/len(lista)
     
 
 
