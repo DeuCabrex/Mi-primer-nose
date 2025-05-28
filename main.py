@@ -9,6 +9,9 @@ while True:
 
     if op == 1:
         nota=int(input("Ingresa la cantidad de notas"))
+        for x in range(nota):
+            pp=int(input(f"Ingrese nota {x+1}"))
+            lista.append(pp)
 
 
 
