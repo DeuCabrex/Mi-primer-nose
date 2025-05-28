@@ -13,8 +13,6 @@ while True:
             pp=int(input(f"Ingrese nota {x+1}: \n"))
             lista.append(pp)
             continue
-
-        print(lista)
     
     if op == 2:
         print("Calcular Promedio")
