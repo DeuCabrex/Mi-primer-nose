@@ -19,8 +19,7 @@ while True:
         prom=sum(lista)/len(lista)
 
         print(f"El promedio de notas es {prom}")
-        break
-    
+        break       
 
-
-
+    else:
+        print("Dato ingresado incorrecto")
