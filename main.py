@@ -19,6 +19,9 @@ while True:
     if op == 2:
         print("Calcular Promedio")
         prom=sum(lista)/len(lista)
+
+        print(f"El promedio de notas es {prom}")
+        break
     
 
 
